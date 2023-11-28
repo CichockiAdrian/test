@@ -1,0 +1,5 @@
+ 1008  history
+ 1009  history |tail 5
+ 1010  history |tail=5
+ 1011  history |tail-5
+ 1012  history |tail -5
